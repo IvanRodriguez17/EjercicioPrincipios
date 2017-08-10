@@ -1,5 +1,6 @@
 # EjercicioPrincipios
 
-* integrantex codigox
-* integrantex codigox
-* integrantex codigox
+* Ivan Rodriguez
+* Kevin Puentes
+* Carlos Fuentes 
+
